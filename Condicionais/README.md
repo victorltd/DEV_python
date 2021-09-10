@@ -7,7 +7,7 @@ A estrutura do mesmo ocorre com o uso da palavra reservada if, em seguida pela c
 ```python
 idade = 18
 if idade >= 18:
-	printf ('maior de idade')
+	print ('maior de idade')
 ```
 No caso desse código, a variável idade recebeu o número 18, após isso, o if verifica que, caso o valor dentro da variável idade seja maior ou igual a 18, então a mensagem "maior de idade" será entregue ao usuário.
 
