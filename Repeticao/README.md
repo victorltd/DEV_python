@@ -5,7 +5,7 @@ Comumente nos deparamos com a necessidade de executar uma instrução repetida v
 FOR - É utilizado quando se precisa executar por uma determinada quantidade de vezes uma ou mais instruções. 
       
       nomes= ['Ramon', 'André', 'Leon', 'Victor', 'Matheus']
-      for n in nomes
+      for n in nomes:
           print(n)
     
 O for percorrerá o vetor nomes, elemento por elemento, e irá atribuir o elemento encontrado à variavel n e printando-a em seguida.
