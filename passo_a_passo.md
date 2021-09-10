@@ -7,7 +7,7 @@
 
 4. Comentários em Python
 
-5. Variáveis
+5. Variáveis e tipos
 
 6. Funções em Python
 
