@@ -1,16 +1,25 @@
-## Passo a passo
-1. Instalação do Python pelo VSCode
+# Passo a passo
 
-2. Configuração do VSCode e Python
+## 1. Instalação do Python pelo VSCode 
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Instalacao)
 
-3. Exemplo "Olá Mundo"
+## 2. Configuração do VSCode e Python
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Configuracao)
 
-4. Comentários em Python
+## 3. Exemplo "Olá Mundo"
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Ola%20Mundo)
 
-5. Variáveis e tipos
+## 4. Comentários em Python
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Comentarios)
 
-6. Funções em Python
+## 5. Variáveis e tipos
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Variaveis)
 
-7. Estruturas condicionais(If e Else)
+## 6. Funções em Python
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Funcoes)
 
-8. Estrutura de Repetição
+## 7. Estruturas condicionais(If e Else)
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Condicionais)
+
+## 8. Estrutura de Repetição
+   [ Entre aqui](https://github.com/victorltd/DEV_python/tree/main/Repeticao)
