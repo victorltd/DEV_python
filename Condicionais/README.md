@@ -17,9 +17,9 @@ O if else, vem com a intenção de complementar o uso do if, onde como foi visto
 ```python
 idade = 18
 if idade >=18:
-printf ('pode beber')
+	print ('pode beber')
 else:
-printf ('nao pode beber')
+	print ('nao pode beber')
 ```
 Nesse caso, se dentro da variável idade existir um número maior ou igual a 18, a mensagem 'pode beber' será impressa, caso contrário, a mensagem 'nao pode beber' será impressa.
 #### If-elif-else:
@@ -28,13 +28,13 @@ Por fim, em um caso onde é necessário conferir mais de uma condição, utiliza
 ```python
 idade = 18
 if idade < 12:
-	printf ('criança')
+	print ('criança')
 elif idade < 18:
-	printf ('adolescente')
+	print ('adolescente')
 elif idade < 60:
-	printf ('adulto')
+	print ('adulto')
 else:
-	printf ('idoso')
+	print ('idoso')
 ```
 Nesse código o objetivo é verificar a idade de certa pessoa, e determinar se ele é criança, adolescente, adulto ou idoso, sendo isso feito com base na sua idade, e para isso são feitas 3 verificações se sua idade é menor que 12, menor que 18 ou menor que 60, e cada à cada um é atribuido a impressão da classificação, caso a variável idade correspondá aquela faixa-etária, e caso nenhuma das 3 anteriores funcionem, a mensagem idoso será exibida.
 
