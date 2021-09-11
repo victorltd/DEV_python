@@ -1,4 +1,4 @@
-## Passos instalação
+## Passos instalação e configuração
 
 ## Instalar VS Code
 1- baixar o Visual Studio Code no link: https://code.visualstudio.com
