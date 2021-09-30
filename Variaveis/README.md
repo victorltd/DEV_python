@@ -60,6 +60,18 @@ Tipos de veriáveis: inteiros, reais, strings, booleans, listas, tuplas e dicion
     	- Ex: tupla[1] (acessando o número 2)
   
   - Dicionários:
+    1. Para criar um dicionário são utilizados os símbolos de {} (chaves);
+    	- Ex: dic = {}
+    2. Dicionários podem ser vistos como uma coleção de pares chave:valor;
+    	- Ex: dic = {'nome': joao, 'idade': 23} (nome e idade são as chave, joao e 23 são os valores
+    3. As chaves em um dicionário precisam ser únicas, porém os valores não precisam
+    	- Ex: dic2 = {'nome': pedro, 'nome': carlos} (erro)
+    5. Dicionários são endereçados por chave, não por posição;
+    	- Ex: dic['nome'] (acessando o valor 'joao')
+    6. Tem tamanho variável e podem conter objetos de qualquer tipo, inclusive ouros dicionários;
+    	- Ex: dic['sexo'] = 'M' (adiciona o campo 'sexo' ao dicionário e atribui 'M' a esse campo) 
+    7. São mutáveis como as listas;
+    8. Atribuir um valor a uma nova chave adiciona uma nova entrada ao dicionário;
 	
     
  
